@@ -51,9 +51,8 @@ export default function Home() {
                 <div className="max-w-3xl">
                     <h2 className="text-[2rem]">About</h2>
                     <p>
-                        I am a self-taught Web Developer based in Kerala,India. I am an expert in
-                        eg:
-                        <a
+                        I am a self-taught Web Developer based in Kerala,India. I am an expert in 
+                       <a
                             className="no-underline text-[#f4db7d] hover:text-[#9daaf2] mx-1"
                             href="https://developer.mozilla.org/en-US/docs/Web/HTML"
                             target="_blank"
